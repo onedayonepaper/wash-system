@@ -1,0 +1,13 @@
+{
+  "name": "tcp-plc-simulator",
+  "version": "1.0.0",
+  "description": "Modbus TCP PLC simulator for wash-system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "modbus-serial": "^8.0.23"
+  }
+}

@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mqtt": "^5.14.1"
+    "modbus-serial": "^8.0.23",
+    "mqtt": "^5.14.1",
+    "sqlite3": "^5.1.7"
   }
 }
