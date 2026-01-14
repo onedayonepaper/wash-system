@@ -98,6 +98,14 @@ BACKEND_PORT=3002 MODBUS_PORT=1502 ./scripts/start-dev.sh
 
 `docs/ops-checklist.md` 참고.
 
+## 로컬 설치 가이드
+
+`docs/local-install.md` 참고.
+
+## PLC 스펙
+
+`docs/plc-spec.md` 참고.
+
 ## 신뢰성 테스트
 
 ```bash
